@@ -26,6 +26,6 @@ Load the raw file
  <img src="Image/Raw (1).png" alt="Alt Text" width="600" height="500">
 
 ### STEP 4 - Here's the screenshot of my output after I started data Cleaning (See screenshot) 
-<img src="Image/Raw (1).png" alt="Alt Text" width="600" height="500">
+<img src="Image/Clean.png" alt="Alt Text" width="600" height="500">
 
 ### Here's the Physical Data Model 

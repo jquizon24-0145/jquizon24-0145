@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**jquizon24-0145/jquizon24-0145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### EDM Midterm Lab Task
+This is my Lab Task Compilation
+### About me
+My name is Jhon Ray Quizon
+### Skills
+- Learned C,C++, JAVA
+### Education
+- College: City College of Angeles (1ST YEAR STUDENT (BS INFORMATION SYSTEM))
+### My Projects
+- Midterm Lab Task 1:
+- Midterm Lab Task 2:

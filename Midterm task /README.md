@@ -27,4 +27,4 @@ Load the raw file
 ### STEP 4 - Here's the screenshot of my output after I started data Cleaning (See screenshot) 
 
 
-### Here's the Physical Data Model <img src="Images/senerd.png" alt="Alt Text" width=*600" height=*500">
+### Here's the Physical Data Model 

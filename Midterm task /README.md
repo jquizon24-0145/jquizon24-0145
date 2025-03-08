@@ -24,6 +24,7 @@ Load the raw file
 ### STEP 3 - Here's the screenshot of my output before I started data cleaning (See screenshot) 
 
  <img src="Image/Uncleaned_DS_jobs.csv" alt="Alt Text" width="600" height="500">
+
 ### STEP 4 - Here's the screenshot of my output after I started data Cleaning (See screenshot) 
 
 

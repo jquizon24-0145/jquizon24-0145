@@ -21,7 +21,9 @@ Entity Relationship Diagram
 
 ![image](https://github.com/user-attachments/assets/fa54efd6-469b-4e69-9392-4d2d232370e2)
 
-Copy
+Database Copy
+
+[Copy](https://github.com/jquizon24-0145/jquizon24-0145/blob/main/Final%20Task%202/copy)
 
 
 

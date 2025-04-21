@@ -37,4 +37,4 @@ Insert image
 Replicate the Database Structure
 (Alternative phrasing for "Database Copy")
 
-Insert image
+[copy](

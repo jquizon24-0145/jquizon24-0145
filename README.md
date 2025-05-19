@@ -12,3 +12,5 @@ My name is Jhon Ray Quizon
 - Midterm Lab Task 3:  [Using Pivot Table and Create Dashboard](https://github.com/jquizon24-0145/jquizon24-0145/tree/main/Midterm%20Task%203)
 - Finals Lab Task 1: [Events Management](https://github.com/jquizon24-0145/jquizon24-0145/tree/main/Finals%20Task%201)
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/jquizon24-0145/jquizon24-0145/tree/main/Final%20Task%202)
+- Finals Lab Task 3: [Table Manipulation](https://github.com/jquizon24-0145/jquizon24-0145/tree/main/Final%20Task%203)
+- Finals Lab Task 4: [Using Select Statement](https://github.com/jquizon24-0145/jquizon24-0145/tree/main/Final%20Task%204) 
